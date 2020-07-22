@@ -22,10 +22,14 @@ background: linear-gradient(to left, #78C0E0, #449DD1, #192BC2); /* Edge and saf
 .searchbox {
 	text-align:center;
 	height:200px;
-	margin-top:80px;
+	margin-top:50px;
 }
 
 h1 {
 	font-size:64px;
+	color:#FFF;
+}
+
+h2 {
 	color:#FFF;
 }
