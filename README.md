@@ -38,4 +38,21 @@
   * [Bugs](#bugs)
   * [Credits](#credits)
 
+## UX
+
+### Project goals
+
+The **goal** is to create an **weather app** that is **beautiful** to look at and **easy** to **navigate.** 
+
+#### User goals
+** Let users **see** the current **weather** in **their city.**
+** Let user **choose** what **city** to **display** weather from.
+** Let user **fillout** a **contactform** if they **wish** to get in **contact** with the site **owner.**
+
+#### Site owner goals
+** Create a **website** that is visually **appealing.**
+** Create a **website** that is **easy** to use.
+
+
+
 
