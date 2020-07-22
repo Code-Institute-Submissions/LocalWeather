@@ -1,5 +1,7 @@
-.header {
-	background-color:blue;
+.jumbotron {
+	background: #78C0E0; /* just display a regular colorfor old browsers that does not support gradients*/
+  background: -webkit-linear-gradient(to right, #78C0E0, #449DD, #192BC2); /* for browsers like Chrome */
+  background: linear-gradient(to right, #78C0E0, #449DD, #192BC2); /* browsers like Edge firefox etc */
 }
 
 .nav-item {
