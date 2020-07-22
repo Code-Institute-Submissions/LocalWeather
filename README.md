@@ -69,4 +69,5 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 * There **should** not be **too much** information **presented** at the **same** time.
 * It **should** be **easy** to **navigate** the **website.**
 
+## Fonts
 
