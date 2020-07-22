@@ -71,3 +71,7 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 
 ## Fonts
 
+The **font** I have **chosen** to **use** for this **project** is the **google font** [Poppins](https://fonts.google.com/specimen/Poppins). Poppins is **playful** yet **simple**
+
+![Poppins](/wireframes/fonts/Poppins.png)
+
