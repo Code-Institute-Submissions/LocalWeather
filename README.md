@@ -75,3 +75,10 @@ The **font** I have **chosen** to **use** for this **project** is the **google f
 
 ![Poppins](/wireframes/fonts/Poppins.png)
 
+## Colors
+
+When I **think** about the **weather** the color **blue** pops into my head. **Perhaps** it is **because** the **sky** is **blue.** The **color scheme** I **chose** to go with this **project** is **blue,** like the **sky.**
+
+![Colors](/wireframes/colors/colors.png)
+
+
