@@ -12,10 +12,17 @@ background: linear-gradient(to left, #78C0E0, #449DD1, #192BC2); /* Edge and saf
 	color:#FFF;
 }
 
+.heading {
+	text-align:center;
+	height:auto;
+	margin-top:100px;
+}
+
+
 .searchbox {
 	text-align:center;
-	height:400px;
-	margin-top:100px;
+	height:200px;
+	margin-top:80px;
 }
 
 h1 {
