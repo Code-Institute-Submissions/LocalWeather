@@ -81,4 +81,6 @@ When I **think** about the **weather** the color **blue** pops into my head. **P
 
 ![Colors](/wireframes/colors/colors.png)
 
+## Wireframes
 
+I used **Adobe XD** to **create wireframes** for the **desktop, tablet, phone**. Every **wireframe** has the **index** site and the **contact** site.
