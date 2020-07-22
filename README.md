@@ -84,3 +84,15 @@ When I **think** about the **weather** the color **blue** pops into my head. **P
 ## Wireframes
 
 I used **Adobe XD** to **create wireframes** for the **desktop, tablet, phone**. Every **wireframe** has the **index** site and the **contact** site.
+
+### Desktop
+
+You can find the **wireframes** for the **desktop**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/desktopindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/desktopcontact.png)
+
+### Tablet
+
+You can find the **wireframes** for the **tablet**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadpindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadcontact.png)
+
+### Phone
+
+You can find the **wireframes** for the **phone**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/phoneindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/phonecontact.png)
