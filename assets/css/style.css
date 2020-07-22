@@ -1,3 +1,11 @@
 .header {
 	background-color:blue;
 }
+
+.nav-item {
+	color:black;
+}
+
+.searchbox {
+	text-align:center;
+}
