@@ -54,8 +54,19 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 * Create a **website** that is **easy** to use.
 
 #### User stories
-* As a **user** I want the **weather** app to be **easy** to use
+* As a **user** I want the **weather** app to be **easy** to use.
 * As a **user** I want the **weather data** to be **presented** to me in a **visually appealing** way.
 * as a **user** I want to be **able** to **choose** which **city** I want to **display** weather **info** from.
+
+## User requirements and expectations
+
+### Reguirements
+* The **website** needs to be **fully** responsive.
+* The **weather** info needs to be **easy** to understand.
+* the **website** needs to be **visually appealing.**
+
+### Expectations
+* There **should** not be **too much** information **presented** at the **same** time.
+* It **should** be **easy** to **navigate** the **website.**
 
 
