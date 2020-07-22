@@ -2,8 +2,10 @@
 background: #78C0E0;  /* for browsers that doesnt support gradient just show basic color */
 background: -webkit-linear-gradient(to left, #78C0E0, #449DD1, #192BC2);  /* for chrome */
 background: linear-gradient(to left, #78C0E0, #449DD1, #192BC2); /* Edge and safari */
+	background-size: cover;
+	height: auto;
+	width: 100%;
 
-	height:500px;
 }
 
 .nav-item {
