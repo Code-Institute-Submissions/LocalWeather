@@ -91,7 +91,7 @@ You can find the **wireframes** for the **desktop**  [here](https://raw.githubus
 
 ### Tablet
 
-You can find the **wireframes** for the **tablet**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadpindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadcontact.png)
+You can find the **wireframes** for the **tablet**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadcontact.png)
 
 ### Phone
 
