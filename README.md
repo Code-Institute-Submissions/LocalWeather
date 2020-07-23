@@ -63,7 +63,7 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 ### Reguirements
 * The **website** needs to be **fully** responsive.
 * The **weather** info needs to be **easy** to understand.
-* the **website** needs to be **visually appealing.**
+* The **website** needs to be **visually appealing.**
 
 ### Expectations
 * There **should** not be **too much** information **presented** at the **same** time.
