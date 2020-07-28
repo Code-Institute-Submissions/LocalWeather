@@ -21,6 +21,9 @@ function weatherSearch(city) {
 	  document.getElementById("weatherInfo").innerHTML = ("loading");
 	
 	
+	
+	
+	
 	fetch(url)
     .then(response => {
       //return response and parse it
