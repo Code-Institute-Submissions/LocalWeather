@@ -16,6 +16,11 @@ function weatherSearch(city) {
 
   const url = api + city + apiKey + units;
   //fetch and add two promises
+	
+	//loading text
+	  document.getElementById("weatherInfo").innerHTML = ("loading");
+	
+	
 	fetch(url)
     .then(response => {
       //return response and parse it
