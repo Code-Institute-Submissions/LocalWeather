@@ -15,4 +15,9 @@ function getCity(data) {
 function weatherSearch(city) {
 
   const url = api + city + apiKey + units;
-  
+  //fetch and add two promises
+	fetch(url)
+    .then(response => {
+      //return response and parse it
+      return response.json()
+    })
