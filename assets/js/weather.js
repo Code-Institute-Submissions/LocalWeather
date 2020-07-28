@@ -33,7 +33,7 @@ function weatherSearch(city) {
 }
 
 function displayWeather(weatherData) {
-//Create variblas that match the name of the openweathermaps parametas
+//Create variables that match the name of the openweathermaps parameters
   const temp = weatherData.main.temp;
   const city = weatherData.name;
   const description = weatherData.weather[0].description;
