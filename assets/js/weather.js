@@ -31,3 +31,16 @@ function weatherSearch(city) {
       document.getElementById("weatherInfo").innerHTML = ("Please search for a valid city");
     })
 }
+
+function displayWeather(weatherData) {
+//Create variblas that match the name of the openweathermaps parametas
+  const temp = weatherData.main.temp;
+  const city = weatherData.name;
+  const description = weatherData.weather[0].description;
+
+//store this information in a weatherInfo
+  const weatherInfo = document.getElementById('weatherInfo');
+//push the info to HTML
+  weatherInfo.innerHTML = ("The weather in " + city + " " +  "is currently" + " "+ description + " " + "temp is" + " " + temp);
+
+}
