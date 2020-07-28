@@ -1,3 +1,12 @@
+
+button {
+	background-color:#000;
+	height:40px;
+	border-radius:5px;
+	border:none;
+	color:#FFF;
+}
+
 .jumbotron {
 background: #78C0E0;  /* for browsers that doesnt support gradient just show basic color */
 background: -webkit-linear-gradient(to left, #78C0E0, #449DD1, #192BC2);  /* for chrome */
@@ -40,4 +49,11 @@ h1 {
 
 .form {
 	margin-top:50px;
+}
+
+#city {
+	width:30%;
+	height:40px;
+	border-radius:5px;
+	border:none;
 }
