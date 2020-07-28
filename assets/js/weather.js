@@ -11,3 +11,8 @@ function getCity(data) {
 
   this.weatherSearch(myInput.value);
 }
+// create weathersearch function that holds the api url,key and the city input
+function weatherSearch(city) {
+
+  const url = api + city + apiKey + units;
+  
