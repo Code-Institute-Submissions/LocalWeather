@@ -21,3 +21,13 @@ function weatherSearch(city) {
       //return response and parse it
       return response.json()
     })
+	
+	.then(weatherInfo => {
+      
+      this.displayWeather(weatherInfo)
+    })
+    //Display this error message if city is undefined
+    .catch(err => {
+      document.getElementById("weatherInfo").innerHTML = ("Please search for a valid city");
+    })
+}
