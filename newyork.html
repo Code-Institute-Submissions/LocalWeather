@@ -16,7 +16,7 @@
 	<div class="jumbotron rounded-0">
 		<!-- Added bootstrap header -->
 		<nav class="navbar-fixed-top navbar navbar-expand-lg navbar-transparent fixed-top">
-            <a class="navbar-brand nav-logo" href="#header" aria-label="LocalWeather">LocalWeather<i class="fas fa-cloud"></i></a>
+            <a class="navbar-brand nav-logo" href="index.html" aria-label="LocalWeather">LocalWeather<i class="fas fa-cloud"></i></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
 			</button>
@@ -24,10 +24,10 @@
 				
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                <div class="navbar-nav">
-                  <a class="nav-item nav-link" href="#newyork.html" aria-label="New York">New york</a>
-                  <a class="nav-item nav-link" href="#london.html" aria-label="London">London</a>
-                  <a class="nav-item nav-link" href="#tokyo.html" aria-label="Tokyo">Tokyo</a>
-				   <a class="nav-item nav-link" href="#sydney.html" aria-label="Sydney">Sydney</a>
+                  <a class="nav-item nav-link" href="newyork.html" aria-label="New York">New york</a>
+                  <a class="nav-item nav-link" href="london.html" aria-label="London">London</a>
+                  <a class="nav-item nav-link" href="tokyo.html" aria-label="Tokyo">Tokyo</a>
+				   <a class="nav-item nav-link" href="sydney.html" aria-label="Sydney">Sydney</a>
                </div>
             </div>
          </nav>
@@ -36,21 +36,23 @@
 			<div class="col">
 			<!--Added form with input to get the value the user submits-->
 			<h1> New York </h1>
-				
-				
+				<div class="form">
+				<input id="city" value="New York">
+					<!--Get city is our javascript function-->
+<button onClick="getCity()">search</button>
 					<!--Here we display the weatherinfo we got from the users input-->
 <div id="weatherInfo">
 
 					
 					</div>
 				
-				
+				</div>
 			</div>
 			</div>
 			</section>
 			
-	</div>
-		
+	
+	</div>	
 	
 	
 	
@@ -59,7 +61,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
-	<script src="assets/js/weathernewyork.js"></script>
+	<script src="assets/js/weather.js"></script>
 	
 	<!--Footer to hold the social media icons and copyrighttext-->
 	<footer>
