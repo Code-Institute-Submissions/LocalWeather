@@ -20,7 +20,6 @@
     + [Fonts](#fonts)
     + [Colours](#colours)
     + [Styling](#styling)
-    + [Images](#images)
     + [Backgrounds](#backgrounds)
   * [Wireframes](#wireframes)
     + [Desktop](#desktop)
@@ -80,6 +79,14 @@ The **font** I have **chosen** to **use** for this **project** is the **google f
 When I **think** about the **weather** the color **blue** pops into my head. **Perhaps** it is **because** the **sky** is **blue.** The **color scheme** I **chose** to go with this **project** is **blue,** like the **sky.**
 
 ![Colors](/wireframes/colors/colors.png)
+
+## Styling
+
+For the **styling** of this **website** I'm using the foundation of **Bootstrap** alongside with **custom styling.**
+
+## Background
+
+The **background** for this **website** is created with [getwaves.io](https://getwaves.io/) and **Photoshop.**
 
 ## Wireframes
 
