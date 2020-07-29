@@ -8,6 +8,11 @@ button {
 	width:80px;
 }
 
+
+button:hover {
+	background-color:blue;
+}
+
 .jumbotron {
 background: #78C0E0;  /* for browsers that doesnt support gradient just show basic color */
 background: -webkit-linear-gradient(to left, #78C0E0, #449DD1, #192BC2);  /* for chrome */
