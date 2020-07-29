@@ -143,4 +143,10 @@ You can find the **wireframes** for the **phone**  [here](https://raw.githubuser
 ## Testing
 
 To **make** sure my website is **working** as **intended** I **doublecheck** everything. I **check** if the **responsivness** is **working properly** with google **devTools**. 
-**I check** so that **my** code **works** crossbrowser and on **all devices**. I **also** validate the **code** with **WC3** validators for **CSS** and **HTML**. To **validate** my **javaScript** I use [ExtendedClass javaScript Validator](https://extendsclass.com/javascript-fiddle.html). **Both** my **HTML** and **CSS** came **without** errors. But my **JavaScript** hade some **semicolons** missing. I **also** got **this** error *arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').* I used **Google** and **found** this on [StackOverflow](https://stackoverflow.com/questions/42866159/arrow-function-syntax-is-only-available-in-es6-use-esversion-6) **that** fixed the **error** and all the **code** now **validates** with no **errors.**
+**I check** so that **my** code **works** crossbrowser and on **all devices**. I **also** validate the **code** with **WC3** validators for **CSS** and **HTML**. 
+
+To **validate** my **javaScript** I use [ExtendedClass javaScript Validator](https://extendsclass.com/javascript-fiddle.html). **Both** my **HTML** and **CSS** came **without** errors. But my **JavaScript** hade some **semicolons** missing. I **also** got **this** warning *arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').* I used **Google** and **found** this on [StackOverflow](https://stackoverflow.com/questions/42866159/arrow-function-syntax-is-only-available-in-es6-use-esversion-6) **that** fixed the **error** and all the **code** now **validates** with no **errors.**
+
+I **tested** my **website** with **different** browser. It **seemed** to work **fine** in everything but **internet explorer 9**. I'm not **putting** too **much** weight into **this** because there is **a lot** of things that **does not** work in **IE9**.
+
+
