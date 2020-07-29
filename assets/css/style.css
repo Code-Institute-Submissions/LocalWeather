@@ -51,15 +51,38 @@ button:hover {
 	background-color:transparent;
 }
 
+.navbar-brand {
+	color:#FFF;
+}
 
 
 
+.nav-item {
+	margin-left:50px;
+	margin-right:50px;
+}
+
+
+/*Input styling*/
 
 .searchbox {
 	text-align:center;
 	height:200px;
 	margin-top:50px;
 }
+
+#city {
+	width:30%;
+	height:40px;
+	border-radius:5px;
+	border:none;
+}
+
+.form {
+	margin-top:50px;
+}
+
+/*Output styling*/
 
 h1 {
 	font-size:64px;
@@ -75,34 +98,12 @@ h1 {
 	font-weight:400;
 }
 
-.form {
-	margin-top:50px;
-}
-
-#city {
-	width:30%;
-	height:40px;
-	border-radius:5px;
-	border:none;
-}
-
+/*Icons styling*/
 
 .fas {
 	color:#FFF;
 }
 
-
-.navbar-brand {
-	color:#FFF;
-}
-
-
-
-
-.nav-item {
-	margin-left:50px;
-	margin-right:50px;
-}
 
 .fab {
 	font-size:30px;
