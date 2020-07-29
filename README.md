@@ -59,7 +59,7 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 
 ## User requirements and expectations
 
-### Reguirements
+### Requirements
 * The **website** needs to be **fully** responsive.
 * The **weather** info needs to be **easy** to understand.
 * The **website** needs to be **visually appealing.**
