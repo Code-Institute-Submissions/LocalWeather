@@ -162,4 +162,26 @@ I **tested** my **website** with **different** browser. It **seemed** to work **
 * Verdict : The header & navbar **passed** all the **tests.**
 
 
+### Searchbar & weatherdisplay
 
+* Plan : Make a **searchbar** where the user can search for a **city** and **display** its **weather.**
+
+* Implementation : I **used** the [OpenWeatherMapApi](https://openweathermap.org/api) to **get** weather **info** from **different cities** all **over** the **world**. I used *const* to **declare** variables with the **different** parts of the **API**. Then I **created** a **function** that **gets** the **input** the user typed into the **searchbar** in the **HTML document.** I **fetched** the data **from** the **API**. I **used** catch to **be able** to **catch** any **errors** and display an **error message**. Lastly I **used** a **function** to **display** the **data** to the **HTML document.**
+
+* Test : I **test** if my **code** is **working** as **intended** by typing in **different** types of **cities**. I **also** check if I get **an error** if I leave the **searchbox** empty.
+
+* Results : The searchbar & weatherdisplay **works** as **intended** the user is **able** to **search** for any **city** and displaying its **weather.**
+
+* Verdict : The searchbar & weatherdisplay **passed** all the **tests.**
+
+### Responsivness 
+
+* Plan : **Build** a **fully responsive** layout with **Bootstrap**
+
+* Implementation : I used **container, row and  col** to make my **website responsive**.
+
+* Test : I **use** the **chrome developer tools** to test the websites **responsivness**. I also tested the **website** on my **Phone** and on my **Ipad**. I **also** resize the **browser window** to see how the **code reacts.**
+
+* Results : The responsivness **works** as **intended** on all **screen sizes.**
+
+* Verdict : The responsivness **passed** all the **tests.**
