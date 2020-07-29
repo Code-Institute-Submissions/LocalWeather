@@ -32,6 +32,13 @@ button:hover {
 	color:#FFF;
 }
 
+.navbar-toggler-icon {
+	background: url('https://i.ya-webdesign.com/images/hamburger-menu-icon-png-white-6.png') no-repeat center center;
+	background-size: 100% 100%;
+}
+
+
+
 .heading {
 	text-align:center;
 	height:auto;
