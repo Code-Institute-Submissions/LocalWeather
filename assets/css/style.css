@@ -80,7 +80,7 @@ button:hover {
 }
 
 #city {
-	width:30%;
+	width:40%;
 	height:4rem;
 	border-radius:0.5rem;
 	border:none;
@@ -120,4 +120,19 @@ h1 {
 
 .fab:hover {
 	color:#000;
+}
+
+/* Media queries */
+
+@media only screen and (max-width: 922px) {
+  .nav-item {
+    color:#000;
+  }
+}
+
+
+@media only screen and (max-width: 425px) {
+	#city {
+		width:60%;
+	}
 }
