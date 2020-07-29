@@ -73,6 +73,16 @@ h1 {
 }
 
 
-.fas{
+.fas {
 	color:#FFF;
+}
+
+
+.navbar-brand {
+	color:#FFF;
+}
+
+
+.navbar-nav {
+    text-align: center;
 }
