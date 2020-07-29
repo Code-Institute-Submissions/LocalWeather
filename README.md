@@ -18,7 +18,7 @@
     + [Requirements](#requirements)
     + [Expectations](#expectations)
     + [Fonts](#fonts)
-    + [Colours](#colours)
+    + [Colors](#colours)
     + [Styling](#styling)
     + [Backgrounds](#backgrounds)
   * [Wireframes](#wireframes)
@@ -68,23 +68,23 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 * There **should** not be **too much** information **presented** at the **same** time.
 * It **should** be **easy** to **navigate** the **website.**
 
-## Fonts
+### Fonts
 
 The **font** I have **chosen** to **use** for this **project** is the **google font** [Poppins](https://fonts.google.com/specimen/Poppins). Poppins is **playful** yet **simple**
 
 ![Poppins](/wireframes/fonts/Poppins.png)
 
-## Colors
+### Colors
 
 When I **think** about the **weather** the color **blue** pops into my head. **Perhaps** it is **because** the **sky** is **blue.** The **color scheme** I **chose** to go with this **project** is **blue,** like the **sky.**
 
 ![Colors](/wireframes/colors/colors.png)
 
-## Styling
+### Styling
 
 For the **styling** of this **website** I'm using the foundation of **Bootstrap** alongside with **custom styling.**
 
-## Background
+### Background
 
 The **background** for this **website** is created with [getwaves.io](https://getwaves.io/) and **Photoshop.**
 
@@ -103,3 +103,15 @@ You can find the **wireframes** for the **tablet**  [here](https://raw.githubuse
 ### Phone
 
 You can find the **wireframes** for the **phone**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/phoneindex.png)
+
+## Features
+
+### Features that have been developed :
+* **Jumbotron** with **navlinks.**
+* **Searchbar** for **cities.**
+* **Errormessage** if **city** is not **valid.**
+
+### Features that will be developed in the future
+* **Show** different **icons** based on **weather**.
+* **Some** appealing **animations**
+* **The** weather for the **different** html-pages should **display** on **load.**
