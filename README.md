@@ -149,4 +149,17 @@ To **validate** my **javaScript** I use [ExtendedClass javaScript Validator](htt
 
 I **tested** my **website** with **different** browser. It **seemed** to work **fine** in everything but **internet explorer 9**. I'm not **putting** too **much** weight into **this** because there is **a lot** of things that **does not** work in **IE9**.
 
+### Header & Navbar
+
+* Plan : The **header & navbar** needs to be **fully responsive.**
+
+* Implementation : I used [getwaves.io](https://getwaves.io/) to **create** the **background** of the header. I **edited** it a bit in **Photoshop**. My header is a **Bootstrap Jumbotron** with a **Bootstrap** navbar. I **customized** the **navbar** and **jumbotron** with custom **CSS.** The navbar **collapses** into an **icon** at **smaller** screensized. I **added** my own **hamburgericon**.
+
+* Test : I **test** the **responsivness** of the header & navbar by **using** chromes **developer tools**. I also **resize** my **browser** windows to see how **the responsivness** behaves. **Lastly** I check how the website looks on my **Samsung s20** and **Ipad Pro**. I **test** if my **navlinks** are **linked** properly by **clicking** them.
+ 
+* Results : The header & navbar **works** as intended. It is **fully responsive** and all the **links** works **correctly.** The **nav items** collapse into an **icon** as expected.
+
+* Verdict : The header & navbar **passed** all the **tests.**
+
+
 
