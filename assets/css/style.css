@@ -44,6 +44,10 @@ button:hover {
 	box-shadow: none;
 }
 
+.navbar-toggler:hover{
+	background-color:transparent;
+}
+
 
 
 .heading {
