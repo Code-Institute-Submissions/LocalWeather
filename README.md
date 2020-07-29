@@ -32,7 +32,6 @@
     + [Languages](#languages)
     + [Libaries & Frameworks](#libaries---frameworks)
     + [Tools](#tools)
-    + [Stockphotos](#stockphotos)
   * [Testing](#testing)
   * [Bugs](#bugs)
   * [Credits](#credits)
@@ -198,3 +197,40 @@ There **were** some **bugs** in my **code** giving me **issues**
 ## Javascript validating error
 * Bug: **Got** this **error** when **validating** my javaScript *arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').*
 * Solution:  I used **Google** and **found** this on [StackOverflow](https://stackoverflow.com/questions/42866159/arrow-function-syntax-is-only-available-in-es6-use-esversion-6) **that** fixed the **error** and all the **code** now **validates** with no **errors.**
+
+## Deployment
+
+LocalWeather was **developed** using **Dreamweaver** and **GitHub.** **Dreamweaver** has a built in connection with **GitHub** that lets you commit, push and more to **GitHub.**
+
+**Github** was used deploying **LocalWeather** by these **steps:**
+
+* **Opened** up **GitHub** in the browser.
+* **Signed in** using username and password.
+* **Selected** my **repositories.**
+* **Navigated** to **elinkatalina/LocalWeather**
+* In the **top navigation** clicked **settings.**
+* **Scrolled down** to the **GitHub Pages area.**
+* **Selected Master Branch** from the **Source dropdown menu.**
+* **Clicked** to **confirm** my **selection.**
+* **LocalWeather** is now **live** on **GitHub Pages.**
+
+If you want to **clone LocalWeather** follow **these steps.**
+
+* **Navigate** to **elinkatalina/LocalWeater**
+* **Click** the **green Clone** or **Download button.**
+* **Copy the url** in the **dropdown box.**
+* **Using** your **IDE** of choice **open** up **your** preferred **terminal.**
+* **Navigate** to **your** desired **file location.**
+* **Copy** the **following code** and **input** it into **your terminal** to **clone LocalWeather**
+
+Git clone https://elinkatalina.github.io/LocalWeather/
+
+
+## Credits
+
+
+### Special thanks to
+My code institute **mentor** [Simen Daehlin](https://github.com/Eventyret)
+
+**This site is for educational purposes only**
+
