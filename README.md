@@ -115,3 +115,27 @@ You can find the **wireframes** for the **phone**  [here](https://raw.githubuser
 * **Show** different **icons** based on **weather**.
 * **Some** appealing **animations**
 * **The** weather for the **different** html-pages should **display** on **load.**
+
+## Technologies Used
+
+### Languages
+* HTML
+* CSS
+* JavaScript
+
+### Libaries & Frameworks
+* [Boostrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
+* [JsPopper](https://popper.js.org/)
+* [JQuery](https://jquery.com/)
+
+### Tools
+* Wc3 CSS Validator
+* Wc3 HTML Validator
+* [Javascript Validator](https://extendsclass.com/javascript-fiddle.html)
+* Git
+* Adobe XD
+* Adope Photoshop
+* Figma
+* Adobe Dreamweaver
+* [Github TOC generator](https://ecotrust-canada.github.io/markdown-toc/)
