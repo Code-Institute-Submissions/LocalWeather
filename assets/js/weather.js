@@ -49,7 +49,7 @@ function displayWeather(weatherData) {
 //store this information in a weatherInfo
   const weatherInfo = document.getElementById('weatherInfo');
 //push the info to HTML
-  weatherInfo.innerHTML = ("The weather in " + city + " " +  "is currently" + " "+ description + " " + "temp is" + " " + temp);
+  weatherInfo.innerHTML = ("The weather in " + city + " " +  "is currently" + " "+ description + ", " + "temp is" + " " + temp);
 	
 	
 
