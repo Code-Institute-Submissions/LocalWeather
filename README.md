@@ -4,6 +4,7 @@
 
 **Welcome to your local weather app where you can easily find your current weather in cities worldwide**
 
+![Mockup](/assets/images/mockup.png)
 
 
 ## Content
@@ -228,6 +229,8 @@ Git clone https://elinkatalina.github.io/LocalWeather/
 
 ## Credits
 
+### Pictures
+The **mockup** picture **is** from [FreeMockupWorld](https://www.freemockupworld.com/workspace-with-devices-mockup/)
 
 ### Special thanks to
 My code institute **mentor** [Simen Daehlin](https://github.com/Eventyret)
