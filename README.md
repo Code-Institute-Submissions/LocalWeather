@@ -46,8 +46,8 @@ The **goal** is to create an **weather app** that is **beautiful** to look at an
 
 #### User goals
 * Let users **see** the current **weather** in **their city.**
-* Let user **choose** what **city** to **display** weather from.
-* Let user **fillout** a **contactform** if they **wish** to get in **contact** with the site **owner.**
+* Let user **search** from what **city** to **display** weather from.
+* Let user **choose** from **popular** cities to **display** weather from.
 
 #### Site owner goals
 * Create a **website** that is visually **appealing.**
@@ -87,12 +87,12 @@ I used **Adobe XD** to **create wireframes** for the **desktop, tablet, phone**.
 
 ### Desktop
 
-You can find the **wireframes** for the **desktop**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/desktopindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/desktopcontact.png)
+You can find the **wireframes** for the **desktop**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/desktopindex.png) 
 
 ### Tablet
 
-You can find the **wireframes** for the **tablet**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadcontact.png)
+You can find the **wireframes** for the **tablet**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/ipadindex.png) 
 
 ### Phone
 
-You can find the **wireframes** for the **phone**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/phoneindex.png) and [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/phonecontact.png)
+You can find the **wireframes** for the **phone**  [here](https://raw.githubusercontent.com/Elinkatalina/LocalWeather/master/wireframes/phoneindex.png)
