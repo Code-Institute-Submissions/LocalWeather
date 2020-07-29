@@ -185,3 +185,15 @@ I **tested** my **website** with **different** browser. It **seemed** to work **
 * Results : The responsivness **works** as **intended** on all **screen sizes.**
 
 * Verdict : The responsivness **passed** all the **tests.**
+
+## Bugs 
+
+There **were** some **bugs** in my **code** giving me **issues**
+
+## OpenWeatherMapApi not working
+* Bug: **The** API **was** not **working** properly.
+* Solution:  I **friend** of mine **took** a **look** at my **code** and **saw** that the URL **was** with **HTTP** instead of **HTTPS**. Once **changed** to **HTTPS** it worked.
+
+## Javascript validating error
+* Bug: **Got** this **error** when **validating** my javaScript *arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6').*
+* Solution:  I used **Google** and **found** this on [StackOverflow](https://stackoverflow.com/questions/42866159/arrow-function-syntax-is-only-available-in-es6-use-esversion-6) **that** fixed the **error** and all the **code** now **validates** with no **errors.**
