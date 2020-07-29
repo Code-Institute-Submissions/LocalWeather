@@ -53,7 +53,7 @@ h1 {
 
 #weatherInfo {
 	color:#FFF;
-	font-size:25px;
+	font-size:22px;
 	height:300px;
 	margin-top:70px;
 	font-weight:400;
@@ -86,4 +86,13 @@ h1 {
 .nav-item {
 	margin-left:50px;
 	margin-right:50px;
+}
+
+.fab {
+	font-size:30px;
+	color:#192bc2;
+}
+
+.fab:hover {
+	color:#000;
 }
