@@ -139,6 +139,7 @@ You can find the **wireframes** for the **phone**  [here](https://raw.githubuser
 * Figma
 * Adobe Dreamweaver
 * [Github TOC generator](https://ecotrust-canada.github.io/markdown-toc/)
+* [OpenWeatherMap](https://openweathermap.org/api)
 
 ## Testing
 
