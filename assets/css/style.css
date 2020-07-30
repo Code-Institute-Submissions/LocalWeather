@@ -79,14 +79,14 @@ button:hover {
 	margin-top:5rem;
 }
 
-#city {
+#cityInput {
 	width:40%;
 	height:4rem;
 	border-radius:0.5rem;
 	border:none;
 }
 
-.form {
+#weatherForm {
 	margin-top:5rem;
 }
 
