@@ -36,11 +36,12 @@
 			<div class="col">
 			<!--Added form with input to get the value the user submits-->
 			<h1> Search for your city! </h1>
-				<div class="form">
-				<input id="city" value="Stockholm">
+				<form id="weatherForm">
+				<input id="cityInput" value="Stockholm">
 					<!--Get city is our javascript function-->
-<button onClick="getCity()">search</button>
+<button id="submit">search</button>
 					<!--Here we display the weatherinfo we got from the users input-->
+					</form>
 <div id="weatherInfo">
 
 					
@@ -48,14 +49,13 @@
 				
 				</div>
 			</div>
-			</div>
-			</section>
+
 			
-	</div>
+
 		
 	
-	
-	
+		</section>
+	</div>
 	
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
