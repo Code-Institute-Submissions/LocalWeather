@@ -130,15 +130,14 @@ You can find the **wireframes** for the **phone**  [here](https://raw.githubuser
 * [JQuery](https://jquery.com/)
 
 ### Tools
-* Wc3 CSS Validator
-* Wc3 HTML Validator
+* [Wc3 CSS Validator](https://jigsaw.w3.org/css-validator/)
+* [Wc3 HTML Validator](https://validator.w3.org/)
 * [Javascript Validator](https://extendsclass.com/javascript-fiddle.html)
-* Git
-* Adobe XD
-* Adope Photoshop
-* Figma
-* Adobe Dreamweaver
-* [Github TOC generator](https://ecotrust-canada.github.io/markdown-toc/)
+* [GitHub](https://github.com/)
+* [Adobe XD](https://www.adobe.com/se/products/xd.html)
+* [Adope Photoshop](https://www.adobe.com/se/products/photoshop.html?gclid=CjwKCAjw34n5BRA9EiwA2u9k327hoWfLCzQxamjOaNCiaISY6tiVNAfHItzKZx-miWP0ysSYJy8HYBoCtZcQAvD_BwE&sdid=8JD95K3M&mv=search&ef_id=CjwKCAjw34n5BRA9EiwA2u9k327hoWfLCzQxamjOaNCiaISY6tiVNAfHItzKZx-miWP0ysSYJy8HYBoCtZcQAvD_BwE:G:s&s_kwcid=AL!3085!3!340816129392!e!!g!!photoshop!1469952956!58520335113)
+* [Figma](https://www.figma.com/)
+* [Adobe Dreamweaver](https://www.adobe.com/se/products/dreamweaver.html?gclid=CjwKCAjw34n5BRA9EiwA2u9k30u3t74mTwYhCOozbpD9bS7pTqynm8uDSKbHw1HTRfSyv_J_9IML9BoCBS8QAvD_BwE&sdid=8JD95K3M&mv=search&ef_id=CjwKCAjw34n5BRA9EiwA2u9k30u3t74mTwYhCOozbpD9bS7pTqynm8uDSKbHw1HTRfSyv_J_9IML9BoCBS8QAvD_BwE:G:s&s_kwcid=AL!3085!3!340816078041!e!!g!!adobe%20dreamweaver!1469953106!58520309993)
 * [OpenWeatherMap](https://openweathermap.org/api)
 
 ## Testing
