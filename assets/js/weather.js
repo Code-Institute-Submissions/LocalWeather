@@ -1,10 +1,11 @@
 /*jshint esversion: 6 */
-
-
-//Api information from openweathermap
 const api = 'https://api.openweathermap.org/data/2.5/weather?q=';
 const apiKey = '&appid=eb530ff6c72ca78b53c5c2a7a8d90b49';
 const units = '&units=metric';
+let cityInputRef = document.querySelector('#city');
+const weatherFormRef = document.querySelector('#weatherForm');
+const weatherInfoRef = document.getElementById('weatherInfo');
+
 
 //create function that takes the input of getCity button
 function getCity(data) {
