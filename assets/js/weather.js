@@ -12,32 +12,15 @@ weatherForm.addEventListener('submit', function (event) {
   event.preventDefault();
   weatherSearch(cityInput.value);
 });
-// create weathersearch function that holds the api url,key and the city input
+/*create weathersearch function that holds the api url,key and the city input*/
 function weatherSearch(city) {
-
-  const url = api + city + apiKey + units;
-  //fetch and add two promises
-	
-	//loading text
-	  document.getElementById("weatherInfo").innerHTML = ("loading");
-	
-	
-	
-	
-	
-	fetch(url)
-    .then(response => {
-      //return response and parse it
-      return response.json();
-    })
-	
-	.then(weatherInfo => {
-      
-      this.displayWeather(weatherInfo);
-    })
-    //Display this error message if city is undefined
-    .catch(err => {
-      document.getElementById("weatherInfo").innerHTML = ("Please search for a valid city");
+  const searchUrl = api + city + apiKey + units;
+  weatherInfoRef.innerHTML = 'loading';
+  fetch(searchUrl)
+    .then((response) => response.json())
+    .then((weatherInfo) => displayWeather(weatherInfo))
+    .catch((err) => {
+      weatherInfoRef.innerHTML = 'Please search for a valid city';
     });
 }
 
