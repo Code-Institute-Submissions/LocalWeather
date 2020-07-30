@@ -7,6 +7,7 @@ const weatherFormRef = document.querySelector('#weatherForm');
 const weatherInfoRef = document.getElementById('weatherInfo');
 
 
+
 /*create function that takes the input of submit of the form*/
 weatherForm.addEventListener('submit', function (event) {
   event.preventDefault();
@@ -24,17 +25,21 @@ function weatherSearch(city) {
     });
 }
 
+/*Function that displays the data to the user*/
 function displayWeather(weatherData) {
-//Create variables that match the name of the openweathermaps parameters
   const temp = weatherData.main.temp;
   const city = weatherData.name;
   const description = weatherData.weather[0].description;
-
-//store this information in a weatherInfo
-  const weatherInfo = document.getElementById('weatherInfo');
-//push the info to HTML
-  weatherInfo.innerHTML = ("The weather in " + city + " " +  "is currently" + " "+ description + ", " + "temp is" + " " + temp);
-	
-	
-
+  weatherInfoRef.innerHTML = `<i class="${createIcon(description)}></i>
+  The weather in ${city} is currently ${description}, temp is ${temp}`;
 }
+
+function createIcon(weatherState) {
+  switch (weatherState) {
+    case 'clear sky':
+      return `fas fa-cloud-meatball`;
+    case 'clear sky':
+      return `<i class="fas fa-cloud-meatball"></i>`;
+    default:
+      break;
+  }
