@@ -32,24 +32,21 @@
             </div>
          </nav>
 		<section class="container text-center">
-		<div class="row">
-			<div class="col">
-			<!--Added form with input to get the value the user submits-->
-			<h1> Sydney </h1>
-				<div class="form">
-				<input id="city" value="Sydney">
-					<!--Get city is our javascript function-->
-<button onClick="getCity()">search</button>
-					<!--Here we display the weatherinfo we got from the users input-->
-<div id="weatherInfo">
-
-					
-					</div>
-				
-				</div>
-			</div>
-			</div>
-			</section>
+                  <div class="row">
+                     <div class="col-sm-12">
+                        <!--Added form with input to get the value the user submits-->
+                        <h1> Sydney </h1>
+                        <form id="weatherForm">
+                           <input id="cityInput" value="Sydney">
+                           <!--Get city is our javascript function-->
+                           <button id="submit">search</button>
+                           <!--Here we display the weatherinfo we got from the users input-->
+                        </form>
+                        <div id="weatherInfo">
+                        </div>
+                     </div>
+                  </div>
+               </section>
 			
 	
 	</div>	
