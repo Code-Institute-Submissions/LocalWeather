@@ -30,16 +30,9 @@ function displayWeather(weatherData) {
   const temp = weatherData.main.temp;
   const city = weatherData.name;
   const description = weatherData.weather[0].description;
-  weatherInfoRef.innerHTML = `<i class="${createIcon(description)}></i>
-  The weather in ${city} is currently ${description}, temp is ${temp}`;
+  weatherInfoRef.innerHTML = 
+  `The weather in ${city} is currently ${description}, temp is ${temp}`;
 }
 
-function createIcon(weatherState) {
-  switch (weatherState) {
-    case 'clear sky':
-      return `fas fa-cloud-meatball`;
-    case 'clear sky':
-      return `<i class="fas fa-cloud-meatball"></i>`;
-    default:
-      break;
-  }
+
+
