@@ -7,13 +7,11 @@ const weatherFormRef = document.querySelector('#weatherForm');
 const weatherInfoRef = document.getElementById('weatherInfo');
 
 
-//create function that takes the input of getCity button
-function getCity(data) {
-
-  const myInput = document.getElementById('city');
-
-  this.weatherSearch(myInput.value);
-}
+/*create function that takes the input of submit of the form*/
+weatherForm.addEventListener('submit', function (event) {
+  event.preventDefault();
+  weatherSearch(cityInput.value);
+});
 // create weathersearch function that holds the api url,key and the city input
 function weatherSearch(city) {
 
